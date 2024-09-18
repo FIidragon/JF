@@ -11,6 +11,8 @@ $(function () {
   // 获取 downs
   const downs = $(".down-link");
 
+  const up = $(".up-link");
+
   // 网页窗口宽度
   let viewWidth = null;
 
